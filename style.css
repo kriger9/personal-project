@@ -26,6 +26,18 @@ body
 	background-color: #D7D6E2;
 }
 
+#mainTwo
+
+{
+	background-color: #D7D6E2;
+	width: 1000px;
+}
+
+#picture
+{
+	float: below;
+}
+
 #nav
 {
 	width: 380px;
